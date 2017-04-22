@@ -1,3 +1,14 @@
+# Content
+
+All content is owned by [altcointrading.net](https://www.altcointrading.net)
+
+**Don't republish without permission.** 
+
+`info@altcointrading.net`
+
+
+=================================================
+
 # Jekyll JSON CMS
 
 A jekyll template made to serve content in JSON format. Manage your content with Github or [prose.io](http://prose.io/) and deploy your JSON API to Github pages.
