@@ -12,7 +12,7 @@ All content is owned by [altcointrading.net](https://www.altcointrading.net)
 
 .
 
-`https://altcointrading.github.io/jekyll-json-cms/img/flamingos.jpg`
+`https://altcointrading.github.io/publisher/img/flamingos.jpg`
 
 
 =================================================
