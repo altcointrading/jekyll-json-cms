@@ -6,6 +6,14 @@ All content is owned by [altcointrading.net](https://www.altcointrading.net)
 
 `info@altcointrading.net`
 
+.
+
+.
+
+.
+
+`https://altcointrading.github.io/jekyll-json-cms/img/flamingos.jpg`
+
 
 =================================================
 
