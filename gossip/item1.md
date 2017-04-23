@@ -2,7 +2,7 @@
 published: true
 datetime: '2017-04-21 03:47'
 title: Flamingo facts
-image: 'https://altcointrading.github.io/jekyll-json-cms/img/flamingos.jpg'
+image: 'https://altcointrading.github.io/publisher/img/flamingos.jpg'
 ---
 ## Meet Flamingos
 
