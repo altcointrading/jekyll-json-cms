@@ -7,7 +7,7 @@
   {
     "url": "{{ item.url | escape }}",
     "path": "{{ item.path | escape }}",
-    "dir": "{{ item.dir | escape }}"
+    "dir": "{{ item.dir | escape }}",
+    "last_modified_at": "{{ page.last_modified_at }}"
   }{% endif %}{% endfor %}
 ]
-
